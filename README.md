@@ -12,3 +12,11 @@ In this repository, you will find resources for community feedback, communicatio
 | 🙏 [Q&A](https://github.com/MorphoSource/Community/discussions/categories/q-a) | Ask questions where others can answer. |
 | 💻 [Issues](https://github.com/MorphoSource/Community/issues) | File bugs or new feature requests here. |
 | 📚 [Documentation](https://wiki.duke.edu/display/MD/MorphoSource+Documentation+Home) | Official MorphoSource documentation in wiki format. |
+
+## Code of Conduct
+
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. Please see our code of conduct and familiarize yourself with the expectations and principles we expect of community members who participate in discussion spaces.
+
+## Acknowledgements
+
+The readme for this repository was patterned off of [GitHub Community Discussions](https://github.com/community/community). The Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.

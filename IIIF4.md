@@ -9,7 +9,7 @@ This document describes the ways the [MorphoSource 3D Data Repository]([https://
 
 ## IIIF Feature Matrix and Examples
 
-This table uses the IIIF 3D TSG's list of 3D draft manifests to show what features are currently supported in MorphoSource's Aleph-R3F viewer.
+This table shows what IIIF 3D features are currently supported in MorphoSource's Aleph-R3F viewer using the IIIF 3D TSG list of 3D draft manifests.
 
 | Manifest | Supported? | Example
 | :--- | :---: | :---: |

@@ -31,7 +31,6 @@ This table shows what IIIF 3D features are currently supported in MorphoSource's
 | 10. Content State | |
 | [Single Model with Comment Annotations and Custom Views Per Annotation](https://raw.githubusercontent.com/IIIF/3d/astronaut_comment_scope/manifests/10_content_state/astronaut_comment_scope.json) | ✅ | [View](https://www.morphosource.org/uv/uv.html#?manifest=https://raw.githubusercontent.com/IIIF/3d/astronaut_comment_scope/manifests/10_content_state/astronaut_comment_scope.json)
 | [Whale Cranium and Mandible with Manifest-Level Comment Annotations](https://raw.githubusercontent.com/IIIF/3d/main/manifests/10_content_state/whale_comment_scope_content_state.json) | ❌ | [View](https://www.morphosource.org/uv/uv.html#?manifest=https://raw.githubusercontent.com/IIIF/3d/main/manifests/10_content_state/whale_comment_scope_content_state.json)
-| | | |
 
 ✅ Works fully! &emsp;🟡 Some relevant features work &emsp;❌ Relevant feature(s) not yet supported
 
